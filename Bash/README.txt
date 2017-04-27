@@ -1,0 +1,1 @@
+All files in here can be used by opening up Automator and creating a new Workflow using the 'Run Shell Script' action. Once created, just add the corresponding text in each file to the text entry box for the shell script.
